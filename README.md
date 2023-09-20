@@ -1,2 +1,2 @@
-# PHYG2022
+# PHYG2023
 Teaching course at Sorbonne University
