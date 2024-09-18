@@ -1,5 +1,0 @@
-   4
-Human      0 0 0 0
-Mouse      0 0 0 0
-Cow        0 0 0 0
-Chimpanzee 0 0 0 0
