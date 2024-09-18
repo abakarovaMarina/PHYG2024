@@ -1,8 +1,9 @@
 .DS_Store
-PHYG_TME7_old/
-~/Documents/GitHub/PHYG2024/PHYG_TME2/
+PHYG_TME2
 PHYG_TME3/
 PHYG_TME4/
 PHYG_TME5/
 PHYG_TME6/
 PHYG_TME7/
+.girignore
+PHYG_TME7_old/
