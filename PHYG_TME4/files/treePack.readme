@@ -1,0 +1,12 @@
+#compilation
+tar -xzvf treePack.tar.gz
+export LD_LIBRARY_PATH=~/GTL/lib/:$LD_LIBRARY_PATH
+cd treePack
+bash make.sh
+
+#execution
+cd superTree/
+./supertree -n output.tree  input.trees
+
+#Visualiser l'arbre
+output.tree va être dans un format particulier, alors il faut copier l'arbre que se trouve après "tree min_cut_supertree = [&R]" pour un autre ficher pour la visualiser correctement. L'arbre dans ce nouveau fichier doit occuper une seule ligne, alors il faut enlever les "\n" supplémentaires. 
